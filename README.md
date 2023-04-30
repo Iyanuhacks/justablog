@@ -1,5 +1,2 @@
 # Swifty
-# Swifty
-# Swifty
-# Swifty
-# Swifty
+* source code of Swifty blog
